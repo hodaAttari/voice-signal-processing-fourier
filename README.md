@@ -38,13 +38,17 @@ Output Examples
 During execution, the notebook produces plots such as:
 
 Amplitude–Frequency curve before and after filtering
+
 Spectrogram (time–frequency intensity map)
+
 Reconstructed clean audio using inverse FFT
+
 Audio output with different playback rates
+
 Mixed signal plot showing combined frequency spectrum
 
 
-🎯 Educational Goal
+Educational Goal
 This mini‑project helps students understand how digital audio processing works —
 
 how frequency‑domain manipulation (Fourier & filters) relates to time‑domain signal changes.
